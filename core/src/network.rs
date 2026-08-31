@@ -1,0 +1,1 @@
+// TODO: NetworkSession: имя сети, invite-код, участники, статус (host/в сети).

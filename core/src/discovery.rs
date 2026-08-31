@@ -1,0 +1,1 @@
+// TODO: UDP broadcast/multicast: announce-пакеты, поиск соседей в подсети.

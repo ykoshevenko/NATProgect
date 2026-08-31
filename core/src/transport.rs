@@ -1,0 +1,1 @@
+// TODO: TCP-канал между узлами: connect/listen, фрейминг, keepalive.
